@@ -3,9 +3,10 @@
 Girls4Tech was born from a partnership between EBANX and Junior Achievement, in 2018, with two main purposes: sharing knowledge and arousing interest in programming for women. Based on video lessons taught by EBANX developers, with evaluations, support materials and a forum for debates among the students, the online course was offered through an online platform, on demand and is divided into 3 modules.
 
 Module 1 - Introduction:
-Brief history of women in computing
-Why learn programming?
-How a web page works; Short story about HTML and CSS; HTML and CSS concept
+
+- Brief history of women in computing
+- Why learn programming?
+-ow a web page works; Short story about HTML and CSS; HTML and CSS concept
 
 Module 2 - HTML: Introduction - Structure:
 What is HTML? What is a TAG? Initial structure of an HTML file
